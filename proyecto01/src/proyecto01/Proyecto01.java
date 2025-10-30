@@ -15,7 +15,7 @@ public class Proyecto01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Direccion:San Cayetano Alto, Calle Paris; Carrera:Computacion");
+        System.out.println("Direccion:San Cayetano Alto, Calle Paris; Carrera:Computacion; Ciclos:nueve ciclos");
     }
     
 }
